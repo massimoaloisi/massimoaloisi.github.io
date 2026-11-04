@@ -13,7 +13,7 @@ Previously, I  have achieved my PhD in Cellular and Molecular Biotechnologies at
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-Currently, I am focusing on *Phoenix rising* in prostate cancer. I am employing several cell lines and the fruitfly to deconvolute molecular mechanisms underlying <strong>resistance induced by anti-cancer therapy</strong>. I am interested in the role of prostaglandin E2 in inducing epithelial-mesenchymal transition.     
+Currently, I am focusing on <em>Phoenix rising</em> in prostate cancer. I am employing several cell lines and the fruitfly to deconvolute molecular mechanisms underlying <strong>resistance induced by anti-cancer therapy</strong>. I am interested in the role of prostaglandin E2 in inducing epithelial-mesenchymal transition.     
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
