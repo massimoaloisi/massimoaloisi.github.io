@@ -52,7 +52,7 @@ Mar. 2024 - Aug. 2024
 Scientific Skills
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Formal genetics</strong>: genetic analysis by crosses, generation of new *Drosophila melanogaster* lines, genetic screening and phenotypic observations under the stereomicroscope.
+<strong>Formal genetics</strong>: genetic analysis by crosses, generation of new <em>Drosophila melanogaster</em> lines, genetic screening and phenotypic observations under the stereomicroscope.
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
@@ -74,11 +74,9 @@ Scientific Skills
 Awards
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Best PhD Thesis Award</strong> for the years 2024-2025 awarded by the Italian Society of Environmental Mutagenesis and Genomics (S.I.M.A.G.) (June 2025).  
-
-<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA, 16-19 June 2024.
-
-<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA, 23 March 2024.
+<strong>Best PhD Thesis Award</strong> for the years 2024-2025 awarded by the Italian Society of Environmental Mutagenesis and Genomics (S.I.M.A.G.) (June 2025). <br> 
+<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA, 16-19 June 2024. <br>
+<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA, 23 March 2024. <br>
 
 Teaching activities
 ======
@@ -97,6 +95,34 @@ Practical labs</strong> <br>
 <em>“Comet assay lab: from cells to imaging”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> <br>
 <em>“Phenotypes of Drosophila melanogaster: a practical lab”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong>
 </p>
+
+Academic roles
+======
+<p style="text-align: justify; margin-bottom: 1em;">
+<strong>Cultore della materia (expert in)</strong>: Appointment as “cultore della materia” in Genetics at the University of L'Aquila for the three-year period 2024-2027 and subsequent inclusion in the examination committees for the classes Genetics (Biological Sciences), Genetic Engineering and Genomics (Health and Nutrition Biology), Epigenetics for Neurobiology (Neurosciences), Environmental Mutagenesis (Environmental Biology and Ecosystem management). <br>
+<strong>Student representative</strong>: From 2016 to 2020, I was elected as a student representative in the following academic committees: President of the Student Council, Academic Senate, University Safety Committee, Departmental Joint Committee (Department of Applied Clinical Sciences and Biotechnology, DISCAB), Teaching Area Committees (sections of Biological Sciences and Biotechnology), Teaching Committee (section of Biological Sciences).
+</p>
+
+Conference participations
+======
+<p style="text-align: justify; margin-bottom: 1em;">
+<strong>Invited speaker</strong>:<br>
+<strong>M. Aloisi</strong>. “Genetic and Molecular Analysis of Micro- and Nanomaterials of Biomedical Interest”. SIMAG 2025 (Best PhD Award winner), 25-27 June 2025, Pisa, Italy <br>
+<strong>Speaker</strong>: <br>
+<strong>M. Aloisi</strong>, P. Morciano, C. Gamberi, D. Grifoni, A.M.G. Poma. “Polystyrene nanoparticles impact on <em>Drosophila melanogaster</em> disease models”. 7. Annual Meeting of the PhD Course in Cellular and Molecular Biotechnologies, 17 September 2024, Teramo, Italy <br>
+<strong>M. Aloisi</strong>, P. Morciano, A. Tarola, D. Grifoni, A.M.G. Poma. “Biological effects of chronic oral exposure to polystyrene nanoparticles in <em>Drosophila melanogaster”</em>. EEMGS/SEMA 2023, 15-18 May 2023, Malaga, Spain <br>
+A.M.G. Poma, <strong>M. Aloisi</strong>, G. Vecchiotti. “Cyto and genotoxicity of polystyrene nanoparticles <em>in vitro”</em>. SIMAG, webinar, 30 November 2020, Online <br>
+<strong>Poster</strong>: <br>
+G. D’Agostini, C. Poscente, <strong>M. Aloisi</strong>, S. Capozucca, M. Sollazzo, A.M. Porcelli, P. Morciano, D. Grifoni. <em>“Drosophila</em> Model of Ovarian Cancer: Loss of Cell Polarity in RAS-Activated Follicular Cells Drives Malignant Clonal Evolution”. Annual meeting PhD-UniTE, September 2026, Teramo, Italy <br>
+G. D’Agostini, C. Poscente, <strong>M. Aloisi</strong>, S. Capozucca, M. Sollazzo, A.M. Porcelli, P. Morciano, D. Grifoni. “Cell polarity disruption in indolent RAS-mutated follicle cells prime aggressive behaviors in <em>Drosophila</em> and human models of ovarian cancer”. IDRC 2026, 7-9 Jul. 2026, L’Aquila, Italy <br>
+<strong>M. Aloisi</strong>, S. Colafarina, O. Zarivi, A.M.G. Poma. “KRAS mutated colorectal cancer cell phenotype is altered by nanopolystyrene and nanopolyethylene exposure”. ESHG 2025, 24-27 May 2025, Milan, Italy <br>
+<strong>M. Aloisi</strong>, A.M.G. Poma, G. D’Agostini, P. Morciano, D. Grifoni. “Nanoparticelle di polistirene inducono danni al DNA e favoriscono l’insorgenza di masse tumorali in <em>Drosophila</em>” (Polystyrene nanoparticles induce DNA damage and increase the incidence of tumoral masses in <em>Drosophila</em>). La Vetrina della Ricerca Mesva (Internal Department meeting), 18-19 February 2025, L’Aquila, Italy <br>
+<strong>M. Aloisi</strong>, A.M.G. Poma, P. Morciano, G. D’agostini, C. Gamberi, D. Grifoni. “Implementing <em>Drosophila melanogaster</em> models of human disease to assess the genotoxicity, carcinogenic potential, and disease-promoting effects of polystyrene nanoparticles”. XVII FISV 2024, 18-20 September, Padua, Italy <br>
+<strong>M. Aloisi</strong>, A.M.G. Poma, P. Morciano, C. Gamberi, D. Grifoni. “Evaluating the genotoxicity, carcinogenic potential, and disease-promoting effects of polystyrene nanoparticles using <em>Drosophila melanogaster</em> models of human disease”. NISBRE 2024, 17-19 June 2024, Washington DC, USA <br>
+<strong>M. Aloisi</strong>, A.M.G. Poma, P. Morciano, C. Gamberi, D. Grifoni. “Polystyrene nanoparticles affect development and induce genotoxicity in <em>Drosophila melanogaster</em>”. Scas meeting 2024, 23 March 2024, Charleston, USA <br>
+<strong>M. Aloisi</strong>, P. Morciano, A. Tarola, A.M.G. Poma, D. Grifoni. “Impact of chronic exposure to nanopolystyrene on <em>Drosophila</em> development and cancer-related traits”. EDRC 2023, 20-23 October 2023, Lyon, France <br>
+<strong>Abstract</strong>: <br>
+A.M.G. Poma, <strong>M. Aloisi</strong>, O. Zarivi, S. Colafarina. “Silica Nanoparticles and Ozone: an evaluation of <em>in vitro</em> cytotoxicity and genotoxicity in a model of indoor air exposition”. SIMAG, webinar, 23-25 November 202
 
 
 Publications
