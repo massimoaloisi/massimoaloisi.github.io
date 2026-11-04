@@ -88,8 +88,8 @@ Teaching activities
 <em>“Drosophila melanogaster to study environmental mutagenesis”</em>, (2 hours), Environmental mutagenesis, master’ degree in Environmental Biology and Ecosystem Management, University of L’Aquila, <strong>2022/2023</strong> <br>
 <em>“The genetics of Drosophila melanogaster”</em>, (2 hours), Genetics, bachelor’ degree in Biological Sciences, University of L’Aquila, <strong>2022/2023</strong> <br>
 <em>“Impact of environmental agents on the development of Drosophila melanogaster”</em>, (1,5 hours), <em>In vivo</em> experimentation on the genetic model <em>Drosophila melanogaster</em>, master’ degree in Pharmaceutical Biotechnologies, University of L’Aquila, <strong>2022/2023</strong> <br>
-<em>“Introduction to Drosophila melanogaster”</em>, (2 hours), Genetic Engineering and Genomics, master’ degrees in Molecular and Cellular Biotechnologies and Health and Nutrition Biology, University of L’Aquila, <strong>2021/2022</strong> >br>
-<strong> <br>
+<em>“Introduction to Drosophila melanogaster”</em>, (2 hours), Genetic Engineering and Genomics, master’ degrees in Molecular and Cellular Biotechnologies and Health and Nutrition Biology, University of L’Aquila, <strong>2021/2022</strong> 
+
 Practical labs</strong> <br>
 <em>"Neuroblast karyotyping: a practical lab”</em>, (6 hours), Modelling in neurobiology, master’ degree in Neurosciences, University of L’Aquila, <strong>2022/2023</strong> <br>
 <em>“Comet assay lab: from cells to imaging”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> <br>
