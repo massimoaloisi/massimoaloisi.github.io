@@ -116,14 +116,14 @@ Conference participations
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>Invited speaker</strong>:<br>
-<strong>M. Aloisi</strong>. “Genetic and Molecular Analysis of Micro- and Nanomaterials of Biomedical Interest”. SIMAG 2025 (Best PhD Award winner), 25-27 June 2025, Pisa, Italy 
+<strong>M. Aloisi</strong>. “Genetic and Molecular Analysis of Micro- and Nanomaterials of Biomedical Interest”. SIMAG 2025 (Best PhD Award winner), 25-27 June 2025, Pisa, Italy  
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>Speaker</strong>: <br>
 <strong>M. Aloisi</strong>, P. Morciano, C. Gamberi, D. Grifoni, A.M.G. Poma. “Polystyrene nanoparticles impact on <em>Drosophila melanogaster</em> disease models”. 7. Annual Meeting of the PhD Course in Cellular and Molecular Biotechnologies, 17 September 2024, Teramo, Italy <br>
 <strong>M. Aloisi</strong>, P. Morciano, A. Tarola, D. Grifoni, A.M.G. Poma. “Biological effects of chronic oral exposure to polystyrene nanoparticles in <em>Drosophila melanogaster”</em>. EEMGS/SEMA 2023, 15-18 May 2023, Malaga, Spain <br>
-A.M.G. Poma, <strong>M. Aloisi</strong>, G. Vecchiotti. “Cyto and genotoxicity of polystyrene nanoparticles <em>in vitro”</em>. SIMAG, webinar, 30 November 2020, Online 
+A.M.G. Poma, <strong>M. Aloisi</strong>, G. Vecchiotti. “Cyto and genotoxicity of polystyrene nanoparticles <em>in vitro”</em>. SIMAG, webinar, 30 November 2020, Online  
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
@@ -136,7 +136,7 @@ P. Morciano, G. D’Agostini, <strong>M. Aloisi</strong>, C. Poscente, D. Grifon
 <strong>M. Aloisi</strong>, A.M.G. Poma, P. Morciano, G. D’agostini, C. Gamberi, D. Grifoni. “Implementing <em>Drosophila melanogaster</em> models of human disease to assess the genotoxicity, carcinogenic potential, and disease-promoting effects of polystyrene nanoparticles”. XVII FISV 2024, 18-20 September, Padua, Italy <br>
 <strong>M. Aloisi</strong>, A.M.G. Poma, P. Morciano, C. Gamberi, D. Grifoni. “Evaluating the genotoxicity, carcinogenic potential, and disease-promoting effects of polystyrene nanoparticles using <em>Drosophila melanogaster</em> models of human disease”. NISBRE 2024, 17-19 June 2024, Washington DC, USA <br>
 <strong>M. Aloisi</strong>, A.M.G. Poma, P. Morciano, C. Gamberi, D. Grifoni. “Polystyrene nanoparticles affect development and induce genotoxicity in <em>Drosophila melanogaster</em>”. Scas meeting 2024, 23 March 2024, Charleston, USA <br>
-<strong>M. Aloisi</strong>, P. Morciano, A. Tarola, A.M.G. Poma, D. Grifoni. “Impact of chronic exposure to nanopolystyrene on <em>Drosophila</em> development and cancer-related traits”. EDRC 2023, 20-23 October 2023, Lyon, France
+<strong>M. Aloisi</strong>, P. Morciano, A. Tarola, A.M.G. Poma, D. Grifoni. “Impact of chronic exposure to nanopolystyrene on <em>Drosophila</em> development and cancer-related traits”. EDRC 2023, 20-23 October 2023, Lyon, France  
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
