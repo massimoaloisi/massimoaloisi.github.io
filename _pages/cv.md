@@ -127,7 +127,7 @@ A.M.G. Poma, <strong>M. Aloisi</strong>, G. Vecchiotti. “Cyto and genotoxicity
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Poster</strong>: <br>
+<strong>Posters</strong>: <br>
 G. D’Agostini, C. Poscente, <strong>M. Aloisi</strong>, S. Capozucca, M. Sollazzo, A.M. Porcelli, P. Morciano, D. Grifoni. <em>“Drosophila</em> Model of Ovarian Cancer: Loss of Cell Polarity in RAS-Activated Follicular Cells Drives Malignant Clonal Evolution”. Annual meeting PhD-UniTE, September 2026, Teramo, Italy <br>
 G. D’Agostini, C. Poscente, <strong>M. Aloisi</strong>, S. Capozucca, M. Sollazzo, A.M. Porcelli, P. Morciano, D. Grifoni. “Cell polarity disruption in indolent RAS-mutated follicle cells prime aggressive behaviors in <em>Drosophila</em> and human models of ovarian cancer”. IDRC 2026, 7-9 Jul. 2026, L’Aquila, Italy <br>
 <strong>M. Aloisi</strong>, S. Colafarina, O. Zarivi, A.M.G. Poma. “KRAS mutated colorectal cancer cell phenotype is altered by nanopolystyrene and nanopolyethylene exposure”. ESHG 2025, 24-27 May 2025, Milan, Italy <br>
@@ -140,7 +140,7 @@ P. Morciano, G. D’Agostini, <strong>M. Aloisi</strong>, C. Poscente, D. Grifon
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Abstract</strong>: <br>
+<strong>Abstracts</strong>: <br>
 A.M.G. Poma, <strong>M. Aloisi</strong>, O. Zarivi, S. Colafarina. “Silica Nanoparticles and Ozone: an evaluation of <em>in vitro</em> cytotoxicity and genotoxicity in a model of indoor air exposition”. SIMAG, webinar, 23-25 November 202
 </p>
 
