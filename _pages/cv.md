@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-**PhD** in “Cellular and Molecular Biotechnologies” (University of Teramo IT).  
-**Thesis**: “Genetic and Molecular Analysis of Micro- and Nanomaterials of Biomedical Interest”.  
-**Supervisor**: Prof. A.M.G. Poma.  
-**Collaborators**: Prof. D. Grifoni (University of L'Aquila), Dr. P. Morciano (Laboratori Nazionali del Gran Sasso), Prof. C. Gamberi (Coastal Carolina University).  
+<strong>PhD</strong> in “Cellular and Molecular Biotechnologies” (University of Teramo IT). <br> 
+<strong>Thesis</strong>: “Genetic and Molecular Analysis of Micro- and Nanomaterials of Biomedical Interest”. <br> 
+<strong>Supervisor</strong>: Prof. A.M.G. Poma. <br>  
+<strong>Collaborators</strong>: Prof. D. Grifoni (University of L'Aquila), Dr. P. Morciano (Laboratori Nazionali del Gran Sasso), Prof. C. Gamberi (Coastal Carolina University). <br> 
 Nov. 2021 - Oct. 2024
 </p>
 
