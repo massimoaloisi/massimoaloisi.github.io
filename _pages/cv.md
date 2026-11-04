@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
