@@ -19,6 +19,6 @@ Currently, I am focusing on <em>Phoenix rising</em> in prostate cancer. I am emp
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-As well as my academic interests, I am committed to <strong>science communication</strong>. Our era is characterised by rapid technological progress; we are immersed with a vast amount of information. I firmly believe that all of this can be misleading and make it difficult to find one’s bearings, even for experts. Therefore, science communication is essential to help bringing clarity to this chaotic, information-overloaded system. Reaching a diverse audience will help both the general public and scientists themselves to understand the world around us and to gather ideas for shaping future research directions.   
+As well as my academic interests, I am committed to <strong>science communication</strong>. Our era is characterised by rapid technological progress; we are immersed in a vast amount of information. I firmly believe that all of this can be misleading and make it difficult to find answers and insights, even for experts. Therefore, science communication is essential to help bringing clarity to this chaotic, information-overloaded system. Reaching a diverse audience will help both the general public and scientists themselves to understand the world around us and to gather ideas for shaping future research directions.   
 </p>
 
