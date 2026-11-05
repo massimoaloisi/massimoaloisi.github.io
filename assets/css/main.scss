@@ -39,7 +39,6 @@
 
 .page__content p {
   text-align: justify !important;
-  display: block;
-  margin-top: 0;
-  margin-bottom: 1.5em !important;
+  text-align-last: auto !important;
+  margin-bottom: 1em;
 }
