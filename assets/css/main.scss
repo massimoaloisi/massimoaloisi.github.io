@@ -52,3 +52,15 @@
   text-align: justify !important;
   text-justify: inter-word;
 }
+
+/* CV section headings */
+#main .archive h2,
+#main .archive h3 {
+  color: #3A9D5D;
+
+#main .archive h2 {
+  border-bottom: 1px solid #3A9D5D;
+  padding-bottom: 8px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
