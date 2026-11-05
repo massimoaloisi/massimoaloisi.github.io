@@ -41,15 +41,15 @@ Academic experience
 <strong>Post-Doc Fellow</strong> (University of L'Aquila/University of Rome Tor Vergata). <br>
 <strong>Project title</strong>: “Targeting therapy-induced paracrine signaling pathways in prostate cancer to prevent disease progression and resistance”. <br>
 <strong>PI</strong>: Prof. D. Grifoni. <br>
-Jan. 2025 - Jan. 2027
-</p>
+Jan. 2025 - Jan. 2027 </p>
+
 
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>Visiting Research Affiliate</strong> (Coastal Carolina University). <br> 
 <strong>Mission</strong>: Genetic screen of <em>BicC</em> functions and modifiers in <em>Drosophila melanogaster</em>.  <br>
 <strong>PI</strong>: Prof. C. Gamberi. <br>
-Mar. 2024 - Aug. 2024  
-</p>
+Mar. 2024 - Aug. 2024 </p> 
+
   
 Scientific Skills
 ======
@@ -76,11 +76,11 @@ Scientific Skills
 Awards
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Best PhD Thesis Award</strong> for the years 2024-2025 awarded by the Italian Society of Environmental Mutagenesis and Genomics (S.I.M.A.G.) (June 2025). <br> 
-
-<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA, 16-19 June 2024. <br>
-
-<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA, 23 March 2024. <br>
+<strong>Best PhD Thesis Award</strong> for the years 2024-2025 awarded by the Italian Society of Environmental Mutagenesis and Genomics (S.I.M.A.G.) (June 2025). <br> </p>
+<p style="text-align: justify; margin-bottom: 1em;">
+<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA, 16-19 June 2024. <br> </p>
+<p style="text-align: justify; margin-bottom: 1em;">
+<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA, 23 March 2024. <br> </p>
 
 Teaching activities
 ======
