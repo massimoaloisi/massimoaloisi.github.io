@@ -71,38 +71,38 @@ Scientific Skills
 Awards
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Best PhD Thesis Award</strong> for the years 2024-2025 awarded by the Italian Society of Environmental Mutagenesis and Genomics (S.I.M.A.G.) (June 2025). <br> </p>
+<strong>Best PhD Thesis Award</strong> for the years 2024-2025 awarded by the Italian Society of Environmental Mutagenesis and Genomics (S.I.M.A.G.) (June 2025). </p>
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA, 16-19 June 2024. <br> </p>
+<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA, 16-19 June 2024. </p>
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA, 23 March 2024. <br> </p>
+<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA, 23 March 2024. </p>
 
 Teaching activities
 ======
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<strong>Seminars</strong> <br> </p>
+<strong>Seminars</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>“Nanomaterials for epigenetics and gene therapy in neuroscience research”</em>, (2 hours), Epigenetics for neurobiology, master’ degree in Neurosciences, University of L’Aquila, <strong>2022/2023, 2024/2025</strong> <br> </p>
+<em>“Nanomaterials for epigenetics and gene therapy in neuroscience research”</em>, (2 hours), Epigenetics for neurobiology, master’ degree in Neurosciences, University of L’Aquila, <strong>2022/2023, 2024/2025</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>“Genetics applied to DNA damage and mutagenesis of nanomaterials”</em>, (2 hours), Environmental mutagenesis, master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2024/2025</strong> <br> </p>
+<em>“Genetics applied to DNA damage and mutagenesis of nanomaterials”</em>, (2 hours), Environmental mutagenesis, master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2024/2025</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>“Toxicity and mutagenesis of micro- and nanoplastics”</em>, (2 hours), Environmental mutagenesis, master’ degree in Environmental Biology and Ecosystem Management, University of L’Aquila, <strong>2021/2022, 2022/2023, 2024/2025, 2025/2026</strong> <br> </p>
+<em>“Toxicity and mutagenesis of micro- and nanoplastics”</em>, (2 hours), Environmental mutagenesis, master’ degree in Environmental Biology and Ecosystem Management, University of L’Aquila, <strong>2021/2022, 2022/2023, 2024/2025, 2025/2026</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>“Drosophila melanogaster to study environmental mutagenesis”</em>, (2 hours), Environmental mutagenesis, master’ degree in Environmental Biology and Ecosystem Management, University of L’Aquila, <strong>2022/2023</strong> <br> </p>
+<em>“Drosophila melanogaster to study environmental mutagenesis”</em>, (2 hours), Environmental mutagenesis, master’ degree in Environmental Biology and Ecosystem Management, University of L’Aquila, <strong>2022/2023</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>“The genetics of Drosophila melanogaster”</em>, (2 hours), Genetics, bachelor’ degree in Biological Sciences, University of L’Aquila, <strong>2022/2023</strong> <br> </p>
+<em>“The genetics of Drosophila melanogaster”</em>, (2 hours), Genetics, bachelor’ degree in Biological Sciences, University of L’Aquila, <strong>2022/2023</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>“Impact of environmental agents on the development of Drosophila melanogaster”</em>, (1,5 hours), <em>In vivo</em> experimentation on the genetic model <em>Drosophila melanogaster</em>, master’ degree in Pharmaceutical Biotechnologies, University of L’Aquila, <strong>2022/2023</strong> <br> </p>
+<em>“Impact of environmental agents on the development of Drosophila melanogaster”</em>, (1,5 hours), <em>In vivo</em> experimentation on the genetic model <em>Drosophila melanogaster</em>, master’ degree in Pharmaceutical Biotechnologies, University of L’Aquila, <strong>2022/2023</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
 <em>“Introduction to Drosophila melanogaster”</em>, (2 hours), Genetic Engineering and Genomics, master’ degrees in Molecular and Cellular Biotechnologies and Health and Nutrition Biology, University of L’Aquila, <strong>2021/2022</strong> </p>
 
 
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<strong>Practical labs</strong> <br> </p>
+<strong>Practical labs</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>"Neuroblast karyotyping: a practical lab”</em>, (6 hours), Modelling in neurobiology, master’ degree in Neurosciences, University of L’Aquila, <strong>2022/2023</strong> <br> </p>
+<em>"Neuroblast karyotyping: a practical lab”</em>, (6 hours), Modelling in neurobiology, master’ degree in Neurosciences, University of L’Aquila, <strong>2022/2023</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
-<em>“Comet assay lab: from cells to imaging”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> <br> </p>
+<em>“Comet assay lab: from cells to imaging”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> </p>
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
 <em>“Phenotypes of Drosophila melanogaster: a practical lab”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> </p>
 
