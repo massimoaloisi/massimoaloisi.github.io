@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My academic life"
+title: "My academic journey, so far"
 permalink: /cv/
 author_profile: true
 redirect_from:
