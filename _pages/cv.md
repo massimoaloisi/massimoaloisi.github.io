@@ -147,23 +147,23 @@ A.M.G. Poma, <strong>M. Aloisi</strong>, O. Zarivi, S. Colafarina. “Silica Nan
 Publications
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-<p><span style="color: #2878B5; font-size: 16px;">●</span> Aloisi M., et al. A Narrative Review of Recent Insights on Nerve Growth Factor Signaling in Physiological and Pathological Ovarian Processes in Mammals. Biomolecules 2026, 16, 699 10.3390/biom16050699</p>
--Scatigna M, et al. Human health and exposure to microplastics and nanoplastics: cross sectional survey on public risk perception in Italian adults. Environ. Sci.: Adv., 2026 10.1039/D5VA00376H <br>
--Aloisi M, et al. An update of the effects of metal nanoparticles on female reproduction. RIVER Journal 2025; 2(3):02-07 <br>
--Aloisi M, et al. The Dual Role of Nanomaterials in Ovarian Cancer and Female Fertility as Anti- and Prooxidants. Antioxidants. 2025; 14(9):1066 <br>
--Cesare P, et al. Cell-Free Mitochondrial DNA in Cell Culture Supernatant: Fragment Size Analysis and FBS Contamination Assessment. DNA. 2025; 5(3):41 <br>
--Aloisi M, et al. Epigenetic Modifications and Gene Expression Alterations in Plants Exposed to Nanomaterials and Nanoplastics: The Role of MicroRNAs, lncRNAs and DNA Methylation. Environments. 2025; 12(7):234 <br>
--Aloisi M., et al. Nanoplastics as Gene and Epigenetic Modulators of Endocrine Functions: A Perspective. Int. J. Mol. Sci. 2025, 26, 2071. https://doi.org/10.3390/ ijms26052071 <br>
--Aloisi M, et al. Drosophila: the century-long flight from the wild to the patient. med Sci pulse 2025 february 6. dOI: 10.5604/01.3001.0054.9627 <br>
--Aloisi M, et al. Plastic Fly: What Drosophila melanogaster Can Tell Us about the Biological Effects and the Carcinogenic Potential of Nanopolystyrene. Int J Mol Sci. 2024;25(14):7965. Published 2024 Jul 21. doi:10.3390/ijms25147965 <br>
--Poma AMG, et al. Beyond genetics: can micro and nanoplastics induce epigenetic and gene-expression modifications? Frontiers in Epigenetics and Epigenomics. 2023. doi.org/10.3389/freae.2023.1241583. <br>
--Bonfigli A, et al. Estimation of DNA Degradation in Archaeological Human Remains. Genes (Basel). 2023 Jun 9;14(6):1238. doi: 10.3390/genes14061238. PMID: 37372418; PMCID: PMC10298407. <br>
--Poma A, et al. Particle Debris Generated from Passenger Tires Induces Morphological and Gene Expression Alterations in the Macrophages Cell Line RAW 264.7. Nanomaterials (Basel). 2023 Feb 17;13(4):756. doi: 10.3390/nano13040756. PMID: 36839124; PMCID: PMC9959278. <br>
--Aloisi M, et al. The Impact of Metal Nanoparticles on Female Reproductive System: Risks and Opportunities. International Journal of Environmental Research and Public Health. 2022; 19(21):13748. https://doi.org/10.3390/ijerph192113748 <br>
--Colafarina S, et al. Genotoxicity Response of Fibroblast Cells and Human Epithelial Adenocarcinoma In Vitro Model Exposed to Bare and Ozone-Treated Silica Microparticles. Cells. 2022; 11(2):226. https://doi.org/10.3390/cells11020226 <br>
-Vecchiotti G, et al. Genotoxicity and oxidative stress induction by polystyrene nanoparticles in the colorectal cancer cell line HCT116. PLoS One. 2021 Jul 23;16(7):e0255120. doi: 10.1371/journal.pone.0255120. PMID: 34297768; PMCID: PMC8301662. <br>
--Poma A, et al. In Vitro Genotoxicity of Polystyrene Nanoparticles on the Human Fibroblast Hs27 Cell Line. Nanomaterials (Basel). 2019 Sep 11;9(9):1299. doi: 10.3390/nano9091299. PMID: 31514347; PMCID: PMC6781270. 
-</p>
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M., et al. A Narrative Review of Recent Insights on Nerve Growth Factor Signaling in Physiological and Pathological Ovarian Processes in Mammals. Biomolecules 2026, 16, 699 10.3390/biom16050699</p>
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Scatigna M, et al. Human health and exposure to microplastics and nanoplastics: cross sectional survey on public risk perception in Italian adults. Environ. Sci.: Adv., 2026 10.1039/D5VA00376H 
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. An update of the effects of metal nanoparticles on female reproduction. RIVER Journal 2025; 2(3):02-07
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. The Dual Role of Nanomaterials in Ovarian Cancer and Female Fertility as Anti- and Prooxidants. Antioxidants. 2025; 14(9):1066 
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Cesare P, et al. Cell-Free Mitochondrial DNA in Cell Culture Supernatant: Fragment Size Analysis and FBS Contamination Assessment. DNA. 2025; 5(3):41 
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. Epigenetic Modifications and Gene Expression Alterations in Plants Exposed to Nanomaterials and Nanoplastics: The Role of MicroRNAs, lncRNAs and DNA Methylation. Environments. 2025; 12(7):234
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M., et al. Nanoplastics as Gene and Epigenetic Modulators of Endocrine Functions: A Perspective. Int. J. Mol. Sci. 2025, 26, 2071. https://doi.org/10.3390/ ijms26052071
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. Drosophila: the century-long flight from the wild to the patient. med Sci pulse 2025 february 6. dOI: 10.5604/01.3001.0054.9627
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. Plastic Fly: What Drosophila melanogaster Can Tell Us about the Biological Effects and the Carcinogenic Potential of Nanopolystyrene. Int J Mol Sci. 2024;25(14):7965. Published 2024 Jul 21. doi:10.3390/ijms25147965
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Poma AMG, et al. Beyond genetics: can micro and nanoplastics induce epigenetic and gene-expression modifications? Frontiers in Epigenetics and Epigenomics. 2023. doi.org/10.3389/freae.2023.1241583.
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Bonfigli A, et al. Estimation of DNA Degradation in Archaeological Human Remains. Genes (Basel). 2023 Jun 9;14(6):1238. doi: 10.3390/genes14061238. PMID: 37372418; PMCID: PMC10298407.
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Poma A, et al. Particle Debris Generated from Passenger Tires Induces Morphological and Gene Expression Alterations in the Macrophages Cell Line RAW 264.7. Nanomaterials (Basel). 2023 Feb 17;13(4):756. doi: 10.3390/nano13040756. PMID: 36839124; PMCID: PMC9959278. 
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. The Impact of Metal Nanoparticles on Female Reproductive System: Risks and Opportunities. International Journal of Environmental Research and Public Health. 2022; 19(21):13748. https://doi.org/10.3390/ijerph192113748
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Colafarina S, et al. Genotoxicity Response of Fibroblast Cells and Human Epithelial Adenocarcinoma In Vitro Model Exposed to Bare and Ozone-Treated Silica Microparticles. Cells. 2022; 11(2):226. https://doi.org/10.3390/cells11020226 
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Vecchiotti G, et al. Genotoxicity and oxidative stress induction by polystyrene nanoparticles in the colorectal cancer cell line HCT116. PLoS One. 2021 Jul 23;16(7):e0255120. doi: 10.1371/journal.pone.0255120. PMID: 34297768; PMCID: PMC8301662.
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Poma A, et al. In Vitro Genotoxicity of Polystyrene Nanoparticles on the Human Fibroblast Hs27 Cell Line. Nanomaterials (Basel). 2019 Sep 11;9(9):1299. doi: 10.3390/nano9091299. PMID: 31514347; PMCID: PMC6781270. 
+
 
   
 Talks
