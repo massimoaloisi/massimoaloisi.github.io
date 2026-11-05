@@ -11,6 +11,7 @@ redirect_from:
 
 
 
+
 Education
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
