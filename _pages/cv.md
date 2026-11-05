@@ -166,7 +166,7 @@ A.M.G. Poma, <strong>M. Aloisi</strong>, O. Zarivi, S. Colafarina. “Silica Nan
 Publications
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-<p><p><span style="color: green !important; -webkit-text-fill-color: blue !important; font-size: 16px;">&#9679;</span> Aloisi M., et al. A Narrative Review of Recent Insights on Nerve Growth Factor Signaling in Physiological and Pathological Ovarian Processes in Mammals. Biomolecules 2026, 16, 699 10.3390/biom16050699</p>
+<p><p><span style="color: green !important; -webkit-text-fill-color: #3A9D5D !important; font-size: 16px;">&#9679;</span> Aloisi M., et al. A Narrative Review of Recent Insights on Nerve Growth Factor Signaling in Physiological and Pathological Ovarian Processes in Mammals. Biomolecules 2026, 16, 699 10.3390/biom16050699</p>
 <p><span style="color: #3A9D5D; font-size: 16px;">●</span> Scatigna M, et al. Human health and exposure to microplastics and nanoplastics: cross sectional survey on public risk perception in Italian adults. Environ. Sci.: Adv., 2026 10.1039/D5VA00376H 
 <p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. An update of the effects of metal nanoparticles on female reproduction. RIVER Journal 2025; 2(3):02-07
 <p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. The Dual Role of Nanomaterials in Ovarian Cancer and Female Fertility as Anti- and Prooxidants. Antioxidants. 2025; 14(9):1066 
