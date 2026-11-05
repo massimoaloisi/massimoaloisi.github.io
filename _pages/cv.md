@@ -100,7 +100,7 @@ Teaching activities
 <em>“Impact of environmental agents on the development of Drosophila melanogaster”</em>, (1,5 hours), <em>In vivo</em> experimentation on the genetic model <em>Drosophila melanogaster</em>, master’ degree in Pharmaceutical Biotechnologies, University of L’Aquila, <strong>2022/2023</strong> <br>
 <p style="text-align: justify; margin-bottom: 1em;">
 <em>“Introduction to Drosophila melanogaster”</em>, (2 hours), Genetic Engineering and Genomics, master’ degrees in Molecular and Cellular Biotechnologies and Health and Nutrition Biology, University of L’Aquila, <strong>2021/2022</strong> 
-</p>
+
 
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>Practical labs</strong> <br>
@@ -110,7 +110,7 @@ Teaching activities
 <em>“Comet assay lab: from cells to imaging”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> <br>
 <p style="text-align: justify; margin-bottom: 1em;">
 <em>“Phenotypes of Drosophila melanogaster: a practical lab”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong>
-</p>
+
 
 Academic roles
 ======
