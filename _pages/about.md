@@ -28,7 +28,7 @@ As well as my academic interests, I am committed to <strong>science communicatio
   <br>
   <img src="/images/cancerrevolution-lab.jpg"
        alt="CanceЯEvolution Lab"
-       style="width: 250px; height: auto;">
+       style="width: 400px; height: auto;">
 </p>
 
 <p class="no-justify">
@@ -37,5 +37,5 @@ As well as my academic interests, I am committed to <strong>science communicatio
   <br>
   <img src="/images/Gamberislab.jpg"
        alt="Gamberi's lab"
-       style="width: 250px; height: auto;">
+       style="width: 400px; height: auto;">
 </p>
