@@ -74,9 +74,9 @@ Awards
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>Best PhD Thesis Award</strong> for the years 2024-2025 awarded by the Italian Society of Environmental Mutagenesis and Genomics (S.I.M.A.G.) (June 2025). </p>
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA, 16-19 June 2024. </p>
+<strong>SC INBRE Travel Award</strong> (South Carolina IDeA Network of Biomedical Research Excellence) to attend NISBRE 2024 in Washington DC, USA (June 2024). </p>
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA, 23 March 2024. </p>
+<strong>Best Poster Presentation</strong> in “Graduate Biochemistry and Cellular Biology” category, 2nd place, at the Scas meeting 2024, Charleston, USA (March 2024). </p>
 
 Teaching activities
 ======
