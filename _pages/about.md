@@ -11,11 +11,11 @@ Hello, I am Massimo Aloisi, a Postdoc Fellow at the University of L'Aquila in th
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-Previously, I  have achieved my PhD in Cellular and Molecular Biotechnologies at the University of Teramo in the Genetics and Mutagenesis lab. The rationale of my thesis was to investigate the role of the <strong>genetic background in responding to environmental stressors</strong>. In particular, I employed <em>in vitro</em> cell cultures and <em>Drosophila melanogaster</em> to untangle micro-and nanoplastics (MPs and NPs) biological and mutagenic effects. In addition, I studied the contribution of NPs in cancer progression and in phenotype severity of Polycystic Kidney Disease and TANGO2 Deficiency Disorder, using <em>Drosophila</em> genetic models.     
+Previously, I  have achieved my PhD in Cellular and Molecular Biotechnologies at the University of Teramo in the Genetics and Mutagenesis lab. The rationale of my thesis was to investigate the role of the <strong>genetic background in responding to environmental stressors</strong>. In particular, I employed <em>in vitro</em> cell cultures and <em>Drosophila melanogaster</em> to untangle micro-and nanoplastics (MPs and NPs) biological and mutagenic effects. In addition, I studied the contribution of NPs in cancer progression and in worsening phenotype severity of Polycystic Kidney Disease and TANGO2 Deficiency Disorder, using <em>Drosophila</em> genetic models.     
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-Currently, I am focusing on <em>Phoenix rising</em> in prostate cancer. I am employing several cell lines and the fruitfly to deconvolute molecular mechanisms underlying <strong>resistance induced by anti-cancer therapy</strong>. I am interested in the role of prostaglandin E2 in inducing epithelial-mesenchymal transition.     
+Currently, I am focusing on <em>Phoenix rising</em> in prostate cancer. I am employing several cell lines and the fruitfly to deconvolute molecular mechanisms underlying <strong>resistance induced by anti-cancer therapy</strong>. In particular, I am interested in the role of prostaglandin E2 in inducing epithelial-mesenchymal transition.     
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
