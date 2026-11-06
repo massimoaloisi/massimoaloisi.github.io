@@ -111,7 +111,7 @@ Teaching activities
 Academic roles
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Cultore della materia (expert in)</strong>: Appointment as “cultore della materia” in Genetics at the University of L'Aquila for the three-year period 2024-2027 and subsequent inclusion in the examination committees for the classes Genetics (Biological Sciences), Genetic Engineering and Genomics (Health and Nutrition Biology), Epigenetics for Neurobiology (Neurosciences), Environmental Mutagenesis (Environmental Biology and Ecosystem management).
+<strong>Cultore della materia (expert in)</strong>: Appointment as “cultore della materia” in Genetics at the University of L'Aquila from 2024 to 2027 and subsequent inclusion in the examination committees for the classes Genetics (Biological Sciences), Genetic Engineering and Genomics (Health and Nutrition Biology), Epigenetics for Neurobiology (Neurosciences), Environmental Mutagenesis (Environmental Biology and Ecosystem management).
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
