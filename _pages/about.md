@@ -23,10 +23,11 @@ As well as my academic interests, I am committed to <strong>science communicatio
 </p>
 
 <p class="no-justify">
-<a href="https://www.researchgate.net/lab/CanceAEvolutionLab-Daniela-Grifoni" target="_blank" rel="noopener noreferrer">CanceЯEvolution Lab</a> </p>
+<a href="https://www.researchgate.net/lab/CanceAEvolutionLab-Daniela-Grifoni" target="_blank" rel="noopener noreferrer">CanceЯEvolution Lab</a> 
 ![La mia fotografia](/images/cancerrevolution-lab.jpg)
+</p>
 
 <p class="no-justify">
-<a href="https://www.coastal.edu/biology/gamberi/" target="_blank" rel="noopener noreferrer">Gamberi's Lab</a> </p>
+<a href="https://www.coastal.edu/biology/gamberi/" target="_blank" rel="noopener noreferrer">Gamberi's Lab</a> 
 ![La mia fotografia](/images/Gamberislab.jpg)
-
+</p>
