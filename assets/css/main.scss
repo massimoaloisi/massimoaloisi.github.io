@@ -65,3 +65,13 @@
   margin-top: 2em;
   margin-bottom: 1em;
 }
+
+/* CV page title */
+body.permalink-cv .page__title {
+  color: #245B3A !important;
+}
+
+/* Overview page title */
+body.layout--about .page__title {
+  color: #17365D !important;
+}
