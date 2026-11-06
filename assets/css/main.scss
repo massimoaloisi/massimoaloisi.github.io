@@ -49,9 +49,14 @@
 }
 
 /* CV section headings */
+#main .archive h1:not(.page__title),
 #main .archive h2,
 #main .archive h3 {
-  color: #3A9D5D;
+  color: #3A9D5D !important;
+  border-bottom: 1px solid #3A9D5D;
+  padding-bottom: 8px;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 
 #main .archive h2 {
