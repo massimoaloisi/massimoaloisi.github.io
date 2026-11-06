@@ -28,14 +28,14 @@ As well as my academic interests, I am committed to <strong>science communicatio
   <br>
   <img src="/images/cancerrevolution-lab.jpg"
        alt="CanceЯEvolution Lab"
-       style="width: 200px; height: auto;">
+       style="width: 250px; height: auto;">
 </p>
 
 <p class="no-justify">
 <p>
-  <a href="https://www.coastal.edu/biology/gamberi">Gamberi's lab</a>
+  <a href="https://www.coastal.edu/biology/gamberi">Gamberi's Lab</a>
   <br>
   <img src="/images/Gamberislab.jpg"
        alt="Gamberi's lab"
-       style="width: 200px; height: auto;">
+       style="width: 250px; height: auto;">
 </p>
