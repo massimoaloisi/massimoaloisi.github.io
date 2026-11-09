@@ -111,7 +111,7 @@ Students’ supervisor
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>Co-tutoring of master’s degree thesis</strong>:
-<p><span style="color: #3A9D5D; font-size: 16px;">●</span>"In vivo preliminary study on nanopolystyrene impact to tumorigenesis" student Annalucia Tarola, academic year 2022/2023 University of L’Aquila, master’ degree in “Health and Nutrition Biology” (Tutor Prof. D. Grifoni, co-tutors Dr. P. Morciano and Dr. M. Aloisi).
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span>"In vivo preliminary study on nanopolystyrene impact to tumorigenesis" student Annalucia Tarola, academic year 2022/2023 University of L’Aquila, master’ degree in “Health and Nutrition Biology” (Tutor Prof. D. Grifoni, co-tutors Dr. P. Morciano and Dr. M. Aloisi). <br>
 <strong>Co-tutoring of bachelor’s degree thesis</strong>:
 <p><span style="color: #3A9D5D; font-size: 16px;">●</span>"The interaction between BRCA and microRNA in early breast cancer: from gene expression to therapy", student Giorgia Di Pietro, in progress, University of L’Aquila, bachelor’s degree in “Biological Sciences” (Tutor Prof. AMG Poma, co-tutor Dr. M. Aloisi).
 <p><span style="color: #3A9D5D; font-size: 16px;">●</span>“Genetics Vs Obesity”, student Tiziana Cittadini, academic year 2025/2026, University of L’Aquila, bachelor’ degree in “Biotechnologies”, (Tutor Prof. Anna MG Poma, co-tutor Dr. M. Aloisi).
