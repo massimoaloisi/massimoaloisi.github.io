@@ -107,6 +107,16 @@ Teaching activities
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
 <em>“Phenotypes of Drosophila melanogaster: a practical lab”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> </p>
 
+Students’ supervisor
+======
+<p style="text-align: justify; margin-bottom: 1em;">
+<strong>Co-tutoring of master’s degree thesis</strong>:
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span>"In vivo preliminary study on nanopolystyrene impact to tumorigenesis" student Annalucia Tarola, academic year 2022/2023 University of L’Aquila, master’ degree in “Health and Nutrition Biology” (Tutor Prof. D. Grifoni, co-tutors Dr. P. Morciano and Dr. M. Aloisi).
+<strong>Co-tutoring of bachelor’s degree thesis</strong>:
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span>"The interaction between BRCA and microRNA in early breast cancer: from gene expression to therapy", student Giorgia Di Pietro, in progress, University of L’Aquila, bachelor’s degree in “Biological Sciences” (Tutor Prof. AMG Poma, co-tutor Dr. M. Aloisi).
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span>“Genetics Vs Obesity”, student Tiziana Cittadini, academic year 2025/2026, University of L’Aquila, bachelor’ degree in “Biotechnologies”, (Tutor Prof. Anna MG Poma, co-tutor Dr. M. Aloisi).
+<p><span style="color: #3A9D5D; font-size: 16px;">●</span>“Nanoplastics and toxic-epigenomics: effects on genomic regulation and DNA stability”, student Alessio Coletti, academic year 2025/2026 University of L’Aquila, bachelor’ degree in “Biological Sciences”, (Tutor Prof. Anna MG Poma, co-tutor Dr. M. Aloisi).
+</p>
 
 Academic roles
 ======
@@ -186,18 +196,5 @@ Publications
 
 
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
