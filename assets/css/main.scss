@@ -78,3 +78,11 @@ body.permalink-cv .page__title {
 body.layout--about .page__title {
   color: #17365D !important;
 }
+
+/* Allow institution name to wrap in the profile sidebar */
+.author__urls li.author__desktop {
+  white-space: normal !important;
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
+  line-height: 1.5;
+}
