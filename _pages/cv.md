@@ -159,7 +159,7 @@ Conference participations
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-<strong>Speaker</strong>: </p>
+<strong>Talks</strong>: </p>
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>M. Aloisi</strong>, P. Morciano, C. Gamberi, D. Grifoni, A.M.G. Poma. “Polystyrene nanoparticles impact on <em>Drosophila melanogaster</em> disease models”. 7. Annual Meeting of the PhD Course in Cellular and Molecular Biotechnologies, 17 September 2024, Teramo, Italy </p>
 <p style="text-align: justify; margin-bottom: 1em;">
