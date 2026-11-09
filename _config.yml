@@ -23,7 +23,7 @@ repository               : "massimoaloisi97/massimoaloisi97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic-1"
+  avatar           : "profile-pic-1.jpg"
   name             : "Massimo Aloisi"
   pronouns         : # example: "he/him"  
   bio              : "Postdoc trying to model diseases"
