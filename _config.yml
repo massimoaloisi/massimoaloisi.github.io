@@ -38,12 +38,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=it&user=ixiIQ2UAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3978-2850"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Massimo-Aloisi?ev=hdr_xprf"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57211297960"
   zotero           : # URL
 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
