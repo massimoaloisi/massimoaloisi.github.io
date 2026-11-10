@@ -28,7 +28,7 @@ Prof. C. Gamberi, Dr. C. Casey, Dr. J. Deloriea, Dr. A. Pino (Coastal Carolina U
 <p style="text-align: justify; margin-bottom: 1em;">
 <p></p><span style="color: #FFA500; font-size: 16px;">&#9679;</span>Aloisi, M. et al. DROSOPHILA: THE CENTURY-LONG FLIGHT FROM THE WILD TO THE PATIENT. Med Sci Pulse. 2025;19(1):1-15. doi:10.5604/01.3001.0054.9627 </p>
 
-Analysis of Ancient DNA fragmentation
+Analysis of ancient DNA fragmentation
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
 Ancient DNA can be defined as genomic material extracted from archaeological finds. It can be either nuclear or mitochondrial and, in both cases, is often fragmented. The integrity of the DNA is a key factor in reconstructing the identity of the organism from which the remains originate. Therefore, studying the degree of DNA fragmentation is necessary to assess the quality of the DNA and to understand how much information can be derived from that sample. For example, the sex chromosomes (X and Y) are often lost, making it impossible to determine biological sex. </p>
