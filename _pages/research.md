@@ -22,7 +22,7 @@ Ancient DNA can be defined as genomic material extracted from archaeological fin
 <p style="text-align: justify; margin-bottom: 1em;">
 In this project, we extracted ancient DNA from various bones found at archaeological sites and compared the degree of fragmentation in nuclear and mitochondrial DNA. Although the latter is considered more reliable (mitochondria are present in large numbers, so the likelihood of finding well-preserved DNA is greater), we found that the nuclear DNA was less fragmented. Furthermore, we have developed a new index to assess this aspect. </p>
 
-<strong>Main questions</strong>
+<strong>Main questions</strong> <br>
 <em>How can we assess DNA fragmentation from archaeological findings? Has mitochondrial DNA to be preferred over nuclears'? Can we employ fragmented DNA as indicator of specific cell stress and type?</em>
 
 <strong>Collaborators</strong>
