@@ -17,11 +17,11 @@ Ancient DNA can be defined as genomic material extracted from archaeological rem
 <p style="text-align: justify; margin-bottom: 1em;">
 In this project, we exctracted ancient DNA from several bones from acraeological sites and we compared the level of frgmentation of nuclear and mitochondrial DNA. Even if the latter is considered more reliable (mitochondria are present in numerous copies and therefore the probability to find presrved DNA are higher), we found that nuclear DNA resulted to be less fragmented. Morover, we established a new index to evaluate this aspect. </p>
 
-## Collaborators
+<strong>Collaborators</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
 Prof. A. Poma, Dr. O. Zarivi, Dr. A. Bonfigli, Dr. P. Cesare (University of L'Aquila)</p>
 
-## Publications
+<strong>Publications</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
 <p></p><span style="color: #FFA500; font-size: 16px;">&#9679;</span>Cesare, P. et al. Cell-Free Mitochondrial DNA in Cell Culture Supernatant: Fragment Size Analysis and FBS Contamination Assessment. DNA 2025, 5, 41. https://doi.org/10.3390/dna5030041 </p>
 <p></p><span style="color: #FFA500; font-size: 16px;">&#9679;</span>Bonfigli, A. et al. Estimation of DNA Degradation in Archaeological Human Remains. Genes 2023, 14(6), 1238. https://doi.org/10.3390/genes14061238 </p>
