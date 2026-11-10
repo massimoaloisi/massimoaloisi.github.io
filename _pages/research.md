@@ -9,6 +9,11 @@ Research
 ======
 Here you can find brief descriptions of the research projects I am currently involved in or have worked on in the past. 
 
+Bicaudal C functions and conservation
+======
+
+
+
 Ancient and fragmented DNA
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
@@ -16,6 +21,9 @@ Ancient DNA can be defined as genomic material extracted from archaeological fin
 
 <p style="text-align: justify; margin-bottom: 1em;">
 In this project, we extracted ancient DNA from various bones found at archaeological sites and compared the degree of fragmentation in nuclear and mitochondrial DNA. Although the latter is considered more reliable (mitochondria are present in large numbers, so the likelihood of finding well-preserved DNA is greater), we found that the nuclear DNA was less fragmented. Furthermore, we have developed a new index to assess this aspect. </p>
+
+<strong>Main questions</strong>
+<em>How can we assess DNA fragmentation from archaeological findings? Has mitochondrial DNA to be preferred over nuclears'? Can we employ fragmented DNA as indicator of specific cell stress and type?</em>
 
 <strong>Collaborators</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
@@ -29,10 +37,4 @@ Prof. A. Poma, Dr. O. Zarivi, Dr. A. Bonfigli, Dr. P. Cesare (University of L'Aq
 
 
 
-Publications
-======
 
-<p style="text-align: justify; margin-bottom: 1em;">
-<p><p><span style="color: green !important; -webkit-text-fill-color: #3A9D5D !important; font-size: 16px;">&#9679;</span> Aloisi M., et al. A Narrative Review of Recent Insights on Nerve Growth Factor Signaling in Physiological and Pathological Ovarian Processes in Mammals. Biomolecules 2026, 16, 699 10.3390/biom16050699</p>
-<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Scatigna M, et al. Human health and exposure to microplastics and nanoplastics: cross sectional survey on public risk perception in Italian adults. Environ. Sci.: Adv., 2026 10.1039/D5VA00376H 
-<p><span style="color: #3A9D5D; font-size: 16px;">●</span> Aloisi M, et al. An update of the effects of metal nanoparticles on female reproduction. RIVER Journal 2025; 2(3):02-07
