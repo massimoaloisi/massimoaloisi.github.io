@@ -1,12 +1,10 @@
 ---
 layout: archive
-title:
+title: "Pills of research"
 permalink: /research/
 author_profile: true
 ---
 
-Research
-======
 Here you can find brief descriptions of the research projects I am currently involved in or have worked on in the past. 
 
 Bicaudal-C functions and conservation
