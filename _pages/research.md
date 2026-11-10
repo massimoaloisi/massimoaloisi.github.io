@@ -29,7 +29,7 @@ In this project, we extracted ancient DNA from various bones found at archaeolog
 <p style="text-align: justify; margin-bottom: 1em;">
 Prof. A. Poma, Dr. O. Zarivi, Dr. A. Bonfigli, Dr. P. Cesare (University of L'Aquila). </p>
 
-<strong>Publications</strong>
+<strong>Selected publications</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
 <p></p><span style="color: #FFA500; font-size: 16px;">&#9679;</span>Cesare, P. et al. Cell-Free Mitochondrial DNA in Cell Culture Supernatant: Fragment Size Analysis and FBS Contamination Assessment. DNA 2025, 5, 41. https://doi.org/10.3390/dna5030041 </p>
 <p></p><span style="color: #FFA500; font-size: 16px;">&#9679;</span>Bonfigli, A. et al. Estimation of DNA Degradation in Archaeological Human Remains. Genes 2023, 14(6), 1238. https://doi.org/10.3390/genes14061238 </p>
