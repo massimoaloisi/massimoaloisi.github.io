@@ -11,8 +11,11 @@ Here you can find brief descriptions of the research projects I am currently inv
 
 Bicaudal C functions and conservation
 ======
+<p style="text-align: justify; margin-bottom: 1em;">
+Bicaudal-C (BICC1) is an evolutionarily conserved RNA-binding protein that regulates gene expression at the post-transcriptional level by controlling mRNA stability, translation and cell localization. It was first identified in <em>Drosophila melanogaster</em> through genetic studies of mutants displaying a characteristic bicaudal embryonic phenotype, with posterior structures duplicated at the anterior pole. Bicaudal-C plays important roles in embryonic development, oogenesis and cell differentiation by regulating the expression of specific genes. In vertebrates, it is involved in the development and function of several organs, particularly the kidney and intestine. Alterations in BICC1 have been associated with human diseases, especially cystic kidney disorders and developmental anomalies. </p>
 
-
+<p style="text-align: justify; margin-bottom: 1em;">
+In this project, we investigated the role of Bicaudal C genetic modifiers in inducing disease-like phenotypes. To do so, we crossed Drosophila hypomorphyc mutants with the entire DGRP library (
 
 Ancient and fragmented DNA
 ======
