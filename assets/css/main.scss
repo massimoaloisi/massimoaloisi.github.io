@@ -48,10 +48,22 @@
   text-justify: inter-word !important;
 }
 
-/* CV section headings */
-#main .archive h1:not(.page__title),
-#main .archive h2,
-#main .archive h3 {
+
+/* OVERVIEW - blue section headings */
+#main.overview-page .archive h1:not(.page__title),
+#main.overview-page .archive h2,
+#main.overview-page .archive h3 {
+  color: #17365D !important;
+  border-bottom: 1px solid #17365D;
+  padding-bottom: 8px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+/* CV - green section headings */
+#main.cv-page .archive h1:not(.page__title),
+#main.cv-page .archive h2,
+#main.cv-page .archive h3 {
   color: #3A9D5D !important;
   border-bottom: 1px solid #3A9D5D;
   padding-bottom: 8px;
@@ -59,8 +71,12 @@
   margin-bottom: 1em;
 }
 
-#main .archive h2 {
-  border-bottom: 1px solid #3A9D5D;
+/* RESEARCH - dark orange section headings */
+#main.research-page .archive h1:not(.page__title),
+#main.research-page .archive h2,
+#main.research-page .archive h3 {
+  color: #D97706 !important;
+  border-bottom: 1px solid #D97706;
   padding-bottom: 8px;
   margin-top: 2em;
   margin-bottom: 1em;
@@ -71,12 +87,14 @@ body.permalink-cv .page__title {
   color: #245B3A !important;
 }
 
-.page__content p.no-justify {
-  text-align: left !important;
-}
 /* Overview page title */
 body.layout--about .page__title {
   color: #17365D !important;
+}
+
+/* Paragraph without justification */
+.page__content p.no-justify {
+  text-align: left !important;
 }
 
 /* Allow institution name to wrap in the profile sidebar */
