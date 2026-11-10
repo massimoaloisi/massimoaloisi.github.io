@@ -12,7 +12,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main" class="{% if page.url == '/cv/' %}cv-page{% elsif page.url == '/research/' %}research-page{% endif %}">
   {% include sidebar.html %}
 
   <div class="archive">
