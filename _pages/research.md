@@ -12,14 +12,14 @@ Here you can find brief descriptions of the research projects I am currently inv
 Ancient and fragmented DNA
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-Ancient DNA can be defined as genomic material extracted from archaeological remains. It can be both nuclear and mitochondrial and in both cases it is often fragmented. DNA integrity is a fundamental factor to reconstruct the identity of the living being from which the remains came from. Therefore, studying the amount of DNA fragmentation is necessary to assess DNA quality and to understand how much we can understand from that sample. For instance, sexual chromosomes (X and Y) are often lost, making it impossible biological sex determination. </p>
+Ancient DNA can be defined as genomic material extracted from archaeological finds. It can be either nuclear or mitochondrial and, in both cases, is often fragmented. The integrity of the DNA is a key factor in reconstructing the identity of the organism from which the remains originate. Therefore, studying the degree of DNA fragmentation is necessary to assess the quality of the DNA and to understand how much information can be derived from that sample. For example, the sex chromosomes (X and Y) are often lost, making it impossible to determine biological sex. </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-In this project, we exctracted ancient DNA from several bones from acraeological sites and we compared the level of frgmentation of nuclear and mitochondrial DNA. Even if the latter is considered more reliable (mitochondria are present in numerous copies and therefore the probability to find presrved DNA are higher), we found that nuclear DNA resulted to be less fragmented. Morover, we established a new index to evaluate this aspect. </p>
+In this project, we extracted ancient DNA from various bones found at archaeological sites and compared the degree of fragmentation in nuclear and mitochondrial DNA. Although the latter is considered more reliable (mitochondria are present in large numbers, so the likelihood of finding well-preserved DNA is greater), we found that the nuclear DNA was less fragmented. Furthermore, we have developed a new index to assess this aspect. </p>
 
 <strong>Collaborators</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
-Prof. A. Poma, Dr. O. Zarivi, Dr. A. Bonfigli, Dr. P. Cesare (University of L'Aquila)</p>
+Prof. A. Poma, Dr. O. Zarivi, Dr. A. Bonfigli, Dr. P. Cesare (University of L'Aquila). </p>
 
 <strong>Publications</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
