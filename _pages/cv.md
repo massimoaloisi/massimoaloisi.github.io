@@ -107,42 +107,15 @@ Teaching activities
 <p style="text-align: justify !important; margin-bottom: 1em; width: 100%;">
 <em>“Phenotypes of Drosophila melanogaster: a practical lab”</em>, (2 hours), master’ degree in Environmental Biology and Ecosystem management, University of L’Aquila, <strong>2023/2024</strong> </p>
 
-Students’ supervisor
-======
-
-<p style="text-align: justify; margin-bottom: 1em;">
-<strong>Co-tutoring of master’s degree thesis</strong>:
-</p>
-
-<p style="text-align: justify; margin-bottom: 1em;">
-<span style="color: #3A9D5D; font-size: 16px;">●</span>
-"In vivo preliminary study on nanopolystyrene impact to tumorigenesis", student Annalucia Tarola, academic year 2022/2023, University of L’Aquila, master’s degree in “Health and Nutrition Biology” (Tutor Prof. D. Grifoni, co-tutors Dr. P. Morciano and Dr. M. Aloisi).
-</p>
-
-<p style="text-align: justify; margin-bottom: 1em;">
-<strong>Co-tutoring of bachelor’s degree thesis</strong>:
-</p>
-
-<p style="text-align: justify; margin-bottom: 1em;">
-<span style="color: #3A9D5D; font-size: 16px;">●</span>
-"The interaction between BRCA and microRNA in early breast cancer: from gene expression to therapy", student Giorgia Di Pietro, in progress, University of L’Aquila, bachelor’s degree in “Biological Sciences” (Tutor Prof. AMG Poma, co-tutor Dr. M. Aloisi).
-</p>
-
-<p style="text-align: justify; margin-bottom: 1em;">
-<span style="color: #3A9D5D; font-size: 16px;">●</span>
-“Genetics Vs Obesity”, student Tiziana Cittadini, academic year 2025/2026, University of L’Aquila, bachelor’s degree in “Biotechnologies” (Tutor Prof. Anna MG Poma, co-tutor Dr. M. Aloisi).
-</p>
-
-<p style="text-align: justify; margin-bottom: 1em;">
-<span style="color: #3A9D5D; font-size: 16px;">●</span>
-“Nanoplastics and toxic-epigenomics: effects on genomic regulation and DNA stability”, student Alessio Coletti, academic year 2025/2026, University of L’Aquila, bachelor’s degree in “Biological Sciences” (Tutor Prof. Anna MG Poma, co-tutor Dr. M. Aloisi).
-</p>
-
 Academic roles
 ======
 
 <p style="text-align: justify; margin-bottom: 1em;">
 <strong>Cultore della materia (expert in)</strong>: Appointment as “cultore della materia” in Genetics at the University of L'Aquila from 2024 to 2027 and subsequent inclusion in the examination committees for the classes Genetics (Biological Sciences), Genetic Engineering and Genomics (Health and Nutrition Biology), Epigenetics for Neurobiology (Neurosciences), Environmental Mutagenesis (Environmental Biology and Ecosystem management).
+</p>
+
+<p style="text-align: justify; margin-bottom: 1em;">
+<strong>Students supervisor</strong>: Co-supervision of several bachelor' and master' degree students during their experimental internships and during the writing of the final thesis.
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
