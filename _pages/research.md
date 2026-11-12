@@ -7,7 +7,7 @@ author_profile: true
 
 Here you can find brief descriptions of the research projects I am currently involved in or have worked on in the past. 
 
-Eicosanoids role in prostate and ovarian cancer <em>Phoenix rising</em>
+Eicosanoids role in prostate and ovarian cancer during <em>Phoenix rising</em>
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
 Eicosanoids, particularly prostaglandin E2 (PGE2), play a key role in the <em>Phoenix Rising</em> response by mediating compensatory proliferation following therapy-induced apoptosis. In prostate cancer cells, caspase-3 activation stimulates the cPLA2–COX-2–PGE2 pathway, promoting the repopulation of surviving cells following chemotherapy. PGE2 signalling supports tumour cell proliferation and, in cancer cells, is associated with epithelial-to-mesenchymal transition (EMT), epigenetic reprogramming and acquired chemoresistance. In ovarian cancer, the involvement of PGE2 and other eicosanoids in tumour progression and therapy resistance has been investigated, although their specific contribution to Phoenix Rising remains less clearly established. Thus, eicosanoid signalling represents a potential link between therapy-induced cell death, tumour repopulation and cancer relapse. </p>
