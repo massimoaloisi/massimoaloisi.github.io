@@ -15,7 +15,7 @@ Eicosanoids, particularly prostaglandin E2 (PGE2), play a key role in the <em>Ph
 <p style="text-align: justify; margin-bottom: 1em;">
 The goal of the project was to determine the paracrine signalling of prostaglandins, with a focus on PGE2, in inducing epigenetic reprogramming and EMT following Etoposide and Carbonplatin treatments. We employed both a specific <em>in vitro</em> model (CRAC) and an <em> in vivo Drosophila</em> genetic model performing cellular, molecular and multi-omics experiments. </p>
 
-strong>Main questions</strong> <br>
+<strong>Main questions</strong> <br>
 <em>What is the role of PGE2 in inducing EMT? Which transcription factors are involved in epigenetic reprogramming during repopulation? What interactions between PGE2 and other eicosanoid are responsible of post-therapy signalling and repopulation?</em>
 
 <strong>Collaborators</strong>
