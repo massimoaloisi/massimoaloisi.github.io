@@ -20,7 +20,7 @@ The goal of the project was to determine the paracrine signalling of prostagland
 
 <strong>Collaborators</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
-Prof. D. Grifoni, Dr. P. Morciano, Dr. Giulio D'Agostini, Dr. Claudia Poscente (University of L'Aquila; Prof. L. Ghibelli, Dr. F. Corsi, Dr. G. Deidda Tarquini, Dr. A. Pelliccia, Dr. M. Urbani (University of Rome Tor Vergata). </p>
+Prof. D. Grifoni, Dr. P. Morciano, Dr. Giulio D'Agostini, Dr. Claudia Poscente (University of L'Aquila); Prof. L. Ghibelli, Dr. F. Corsi, Dr. G. Deidda Tarquini, Dr. A. Pelliccia, Dr. M. Urbani (University of Rome Tor Vergata). </p>
 
 Cell adaptive responses to micro- and nanoplastics and their role in disease progression
 ======
