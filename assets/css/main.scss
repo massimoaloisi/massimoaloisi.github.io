@@ -110,18 +110,22 @@ body.layout--about .page__title {
   line-height: 1.5;
 }
 
-/* COMMUNICATION - light purple section headings */
+/* ========================================
+   COMMUNICATION PAGE - PURPLE THEME
+   ======================================== */
+
+/* Main page title - dark purple */
+#main.communication-page .archive .page__title {
+  color: #5B2C83 !important;
+}
+
+/* Internal section headings - light purple */
 #main.communication-page .archive h1:not(.page__title),
 #main.communication-page .archive h2,
 #main.communication-page .archive h3 {
   color: #9B72B0 !important;
-  border-bottom: 1px solid #9B72B0;
+  border-bottom: 1px solid #9B72B0 !important;
   padding-bottom: 8px;
   margin-top: 2em;
   margin-bottom: 1em;
-}
-
-/* COMMUNICATION - dark purple main page title */
-#main.communication-page .page__title {
-  color: #5B2C83 !important;
 }
