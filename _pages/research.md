@@ -16,7 +16,7 @@ Eicosanoids, particularly prostaglandin E2 (PGE2), play a key role in the <em>Ph
 The goal of the project was to determine the paracrine signalling of prostaglandins, with a focus on PGE2, in inducing epigenetic reprogramming and EMT following Etoposide and Carbonplatin treatments. We employed both a specific <em>in vitro</em> model (CRAC) and an <em> in vivo Drosophila</em> genetic model performing cellular, molecular and multi-omics experiments. </p>
 
 <strong>Main questions</strong> <br>
-<em>What is the role of PGE2 in inducing EMT? Which transcription factors are involved in epigenetic reprogramming during repopulation? What interactions between PGE2 and other eicosanoid are responsible of post-therapy signalling and repopulation?</em>
+<em>What is the role of PGE2 in inducing EMT? Which transcription factors are involved in epigenetic reprogramming during repopulation? What interactions between PGE2 and other eicosanoids are responsible of post-therapy signalling and repopulation?</em>
 
 <strong>Collaborators</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
@@ -35,7 +35,7 @@ The aim of the project was to analyse the molecular pathways that respond to the
 
 <strong>Collaborators</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
-Prof. D. Grifoni, Dr. P. Morciano, Prof. A. Poma, Dr. S. Colafarina, Dr. O. Zarivi, Prof. A. Volpe (University of L'Aquila; Prof. C. Gamberi, Dr. C. Casey, Dr. J. Deloriea (Coastal Carolina University). </p>
+Prof. D. Grifoni, Dr. P. Morciano, Prof. A. Poma, Dr. S. Colafarina, Dr. O. Zarivi, Prof. A. Volpe (University of L'Aquila); Prof. C. Gamberi, Dr. C. Casey, Dr. J. Deloriea (Coastal Carolina University). </p>
 
 <strong>Selected publications</strong>
 <p style="text-align: justify; margin-bottom: 1em;">
