@@ -16,4 +16,4 @@ Biopills
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-During the years I have written article ranging from genetics to cell biology, from biochemistry to molecular biology, from actuality to interviews to experts. If interested, my articles are readable on the <p><a href="https://www.biopills.net/author/massimo-aloisi/">website</a>. </p>
+During the years I have written article ranging from genetics to cell biology, from biochemistry to molecular biology, from actuality to interviews to experts. If interested, my articles are readable on the <a href="https://www.biopills.net/author/massimo-aloisi/">website</a>. </p>
