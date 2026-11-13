@@ -11,8 +11,9 @@ Beyond the bench, what we discover in our laboratories become reality shaping th
 Biopills
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-Biopills is a science communication project that combines scientific accuracy with accessible language. Since joining the project in 2016, I have written science articles on the frontiers of research and social challenges. I have also had the opportunity to interview experts and campaigners on topics ranging from the environment to the biomedical sector. Currently, together with six other extraordinary people, we have transformed Biopills into an association, organising seminars, webinars, online courses and ‘field experiences’. At present, I am responsible for general internal coordination and I write the regular newsletter.
+<p>
+  <a href="https://www.biopills.net/">Biopills</a> is a science communication project that combines scientific accuracy with accessible language. Since joining the project in 2016, I have written science articles on the frontiers of research and social challenges. I have also had the opportunity to interview experts and campaigners on topics ranging from the environment to the biomedical sector. Currently, together with six other extraordinary people, we have transformed Biopills into an association, organising seminars, webinars, online courses and ‘field experiences’. At present, I am responsible for general internal coordination and I write the regular newsletter.
 </p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-During the years I have written article ranging from genetics to cell biology, from biochemistry to molecular biology, from actuality to interviews to experts. If interested, my articles are readable on the website. </p>
+During the years I have written article ranging from genetics to cell biology, from biochemistry to molecular biology, from actuality to interviews to experts. If interested, my articles are readable on the <p><a href="https://www.biopills.net/author/massimo-aloisi/">website</a>. </p>
