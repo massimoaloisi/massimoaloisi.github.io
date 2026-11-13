@@ -23,7 +23,7 @@ European researchers night
 The end of September each year is brought to life by the European Researchers’ Night. In collaboration with the CanceREvolution laboratory, I organised divulgative stands about our research activities. We took fruit flies out onto the streets, eliciting mixed reactions, ranging from astonishment to fear amongst tbugs haters. In both cases, we managed to inspire wonder at the immense possibilities that <em>Drosophila</em> offers to the biomedical research community. We set up microscopes for observing the flies and recreated a small laboratory dedicated to <em>Drosophila</em>, where children could give free rein to their scientific curiosity by working as little <em>Drosophila</em> scientists.</p>
 
 <p style="text-align: justify; margin-bottom: 1em;">
-Additionally, thanks to the amazing coordination of Prof. D. Grifoni, we started the Biology Championship. High school students challenge each others with biology quizzes to useful gadgets for their daily life at school. </p>
+Additionally, thanks to the amazing coordination of Prof. D. Grifoni, we started the Biology Championship. High school students challenge each others with biology quizzes to win useful gadgets for their daily life at school. </p>
 
 An Instagram page for the UnivAQ genetics laboratories 
 ======
