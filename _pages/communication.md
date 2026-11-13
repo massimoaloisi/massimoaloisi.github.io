@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Science communication and outreach"
-permalink: /research/
+permalink: /communication/
 author_profile: true
 ---
 
