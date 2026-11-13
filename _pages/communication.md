@@ -28,7 +28,7 @@ Additionally, thanks to the amazing coordination of Prof. D. Grifoni, we started
 An Instagram page for the UnivAQ genetics laboratories 
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
-Since 2022, I handle an instagram page to spread to the academic community and to the general pubblic the scientific activities and achievements of the genetics laboratories of the University of L'Aquila (@geneticslaboratoryaq). With the help of trainees and PhD students, I pubblish scientific images, carousels from conferences and events and lot of memes and fun facts. </p>
+Since 2022, I handle an instagram page to spread to the academic community and to the general pubblic the scientific activities and achievements of the genetics laboratories of the University of L'Aquila (@geneticslaboratoryaq). Helped by trainees and PhD students, I pubblish scientific images, carousels from conferences and events and lot of memes and fun facts. </p>
 
 <img src="/images/instagram.jpg"
        alt="GeneticslaboratoryAQ"
