@@ -25,6 +25,10 @@ The end of September each year is brought to life by the European Researchers’
 <p style="text-align: justify; margin-bottom: 1em;">
 Additionally, thanks to the amazing coordination of Prof. D. Grifoni, we started the Biology Championship. High school students challenge each others with biology quizzes to win useful gadgets for their daily life at school. </p>
 
+<img src="/images/cancerrevolution-lab.jpg"
+       alt="CanceЯEvolution Lab"
+       style="width: 400px; height: auto;">
+
 An Instagram page for the UnivAQ genetics laboratories 
 ======
 <p style="text-align: justify; margin-bottom: 1em;">
