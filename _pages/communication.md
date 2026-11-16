@@ -25,6 +25,7 @@ The end of September each year is brought to life by the European Researchers’
 <p style="text-align: justify; margin-bottom: 1em;">
 Additionally, thanks to the amazing coordination of Prof. D. Grifoni, we started the Biology Championship. High school students challenge each others with biology quizzes to win useful gadgets for their daily life at school. </p>
 
+Sharper 2026, L'Aquila
 <img src="/images/sharper2026.jpg"
        alt="CanceЯEvolution Lab at Sharper 2026"
        style="width: 400px; height: auto;">
